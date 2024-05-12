@@ -1,1 +1,1 @@
-# project1
+python manage.py runserver
